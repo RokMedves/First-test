@@ -1,3 +1,8 @@
+
+#ifndef COMPLEXH
+#define COMPLEXH
+#endif
+
 class complexNumber{
 
 	public:

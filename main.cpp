@@ -1,6 +1,12 @@
 #include <iostream>
 #include "complex.h"
 
+#ifndef COMPLEXH
+#error You do not have complex.h!!!
+#endif
+
+
+
 using namespace std;
 
 int main(){
