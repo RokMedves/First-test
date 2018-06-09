@@ -22,6 +22,8 @@ int main(){
 
 	complexNumber z = complexNumber(a, b);
 	z.print();
+	z.add(z).print();
+
 
 	return 0;
 }
